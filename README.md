@@ -2,7 +2,7 @@
 
 🎓 Graduate Student in Business Analytics at the Carlson School of Management, University of Minnesota – Twin Cities.
 
-💼 Former Data Analyst at Capgemini with experience in Python, SQL, ML, A/B Testing and Tableau.
+💼 Former Data Analyst at Capgemini with experience in Python, SQL and SAP HANA.
 
 🔍 Passionate about leveraging data to drive business insights and decision-making.
 
