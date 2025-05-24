@@ -6,13 +6,13 @@
 
 🔍 Passionate about leveraging data to drive business insights and decision-making.
 
----
+
 
 ## 🧠 About Me
 
 I'm a data enthusiast with a strong foundation in analytics and a keen interest in machine learning and natural language processing. My academic and professional experiences have equipped me with the skills to tackle complex data challenges and deliver actionable solutions.
 
----
+
 
 ## 🔧 Technologies & Tools
 
@@ -20,9 +20,6 @@ I'm a data enthusiast with a strong foundation in analytics and a keen interest 
 - **Libraries & Frameworks:** Pandas, NumPy, Scikit-learn, TensorFlow, Keras
 - **Tools:** Tableau, Power BI, SAP ABAP, Git, Jupyter Notebook
 
----
-
-## 📊 Projects
 
 ## 📊 Projects
 
@@ -40,7 +37,7 @@ Here are some of the projects I've worked on:
 
 - [Causal Inference with Experimental Data](https://github.com/Ishan-Kotian/Causal-Inference-with-Experimental-Data): Used R to analyze experimental impacts of Reddit Gold on engagement and a tutoring program on test scores. Applied statistical testing and DiD regression.
 
----
+
 
 ## 📫 Let's Connect
 
@@ -49,7 +46,7 @@ Here are some of the projects I've worked on:
 
 Feel free to reach out for collaboration or just to say hi!
 
----
+
 
 ![Ishan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ishan-Kotian&show_icons=true&theme=radical)
 
