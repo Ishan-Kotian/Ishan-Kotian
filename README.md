@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Ishan Kotian
+# Hi there, I'm Ishan Kotian
 
 🎓 Graduate Student in Business Analytics at the Carlson School of Management, University of Minnesota – Twin Cities.
 
@@ -8,13 +8,13 @@
 
 
 
-## 🧠 About Me
+## About Me
 
 I'm a data enthusiast with a strong foundation in analytics and a keen interest in machine learning and natural language processing. My academic and professional experiences have equipped me with the skills to tackle complex data challenges and deliver actionable solutions.
 
 
 
-## 🧰 Tech Stack
+## Tech Stack
 
 - **Programming & Analytics**  
 Python, R, SQL, Excel, Tableau, Power BI, SAP ABAP on HANA, Git  
