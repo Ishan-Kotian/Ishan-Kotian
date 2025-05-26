@@ -67,6 +67,4 @@ You can view or download my resume [here](https://www.linkedin.com/in/ishan-koti
 ---
 
 
-![Ishan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ishan-Kotian&show_icons=true&theme=radical)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ishan-Kotian&layout=compact&theme=radical)
