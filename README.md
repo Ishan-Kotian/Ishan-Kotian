@@ -25,14 +25,12 @@ Here's your **Tech Stack section rewritten in clean, professional markdown** usi
 Python, R, SQL, Excel, Tableau, Power BI, SAP ABAP on HANA, Git
 Exploratory Data Analysis (EDA), Data Visualization
 
----
 
 ### ☁️ Big Data & Cloud Platforms
 
 Databricks, Apache Spark (Structured Streaming, Spark MLlib), Hadoop, Kafka
 Snowflake, BigQuery, AWS SageMaker
 
----
 
 ### 🤖 Machine Learning & Predictive Analytics
 
@@ -40,7 +38,6 @@ Supervised & Unsupervised Learning, XGBoost, LightGBM, CatBoost
 PyTorch, TensorFlow, NLP, DBSCAN, Bayesian Optimization
 Predictive Modeling, Time Series Forecasting
 
----
 
 ### 🧪 Experimentation & Causal Analysis
 
