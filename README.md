@@ -16,23 +16,53 @@ I'm a data enthusiast with a strong foundation in analytics and a keen interest 
 
 ## Tech Stack
 
-- **Programming & Analytics**  
-Python, R, SQL, Excel, Tableau, Power BI, SAP ABAP on HANA, Git  
-Exploratory Data Analysis (EDA), Data Visualization
+<h2>🚀 Tech Stack</h2>
 
-- **Big Data & Cloud Platforms**  
-Databricks, Apache Spark (Structured Streaming, Spark MLlib), Hadoop, Kafka  
-Snowflake, BigQuery, AWS SageMaker
+<h3>🧠 Programming & Analytics</h3>
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
+  <img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" width="40" />
+  <img src="https://img.icons8.com/color/48/power-bi.png" width="40" />
+  <img src="https://img.icons8.com/color/48/sap.png" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" width="40" />
+</p>
 
-- **Machine Learning & Predictive Analytics**  
-Supervised & Unsupervised Learning, XGBoost, LightGBM, CatBoost  
-PyTorch, TensorFlow, NLP, DBSCAN, Bayesian Optimization  
-Predictive Modeling, Time Series Forecasting
+<h3>📊 Data Exploration & Visualization</h3>
+<p>
+  <img src="https://img.icons8.com/external-flat-juicy-fish/60/000000/external-data-visualization-data-visualization-flat-flat-juicy-fish.png" width="40" />
+  <img src="https://img.icons8.com/color/48/seaborn.png" width="40" />
+</p>
 
-- **Experimentation & Causal Analysis**  
-A/B Testing, Multivariate Testing, Causal Inference, Experimental Design  
-Statistical Modeling, Observational Analysis
+<h3>☁️ Big Data & Cloud Platforms</h3>
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spark/spark-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hadoop/hadoop-original.svg" width="40" />
+  <img src="https://img.icons8.com/color/48/amazon-web-services.png" width="40" />
+  <img src="https://img.icons8.com/color/48/databricks.png" width="40" />
+  <img src="https://img.icons8.com/color/48/google-bigquery.png" width="40" />
+  <img src="https://img.icons8.com/ios-filled/50/000000/snowflake.png" width="40" />
+  <img src="https://img.icons8.com/color/48/aws.png" width="40" />
+</p>
 
+<h3>🤖 Machine Learning & Predictive Analytics</h3>
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" />
+  <img src="https://img.icons8.com/color/48/cat.png" width="40" title="CatBoost" />
+  <img src="https://img.icons8.com/color/48/lightning-bolt--v1.png" width="40" title="LightGBM" />
+  <img src="https://img.icons8.com/fluency/48/artificial-intelligence.png" width="40" />
+  <img src="https://img.icons8.com/ios/50/time-machine.png" width="40" />
+</p>
+
+<h3>🧪 Experimentation & Causal Analysis</h3>
+<p>
+  <img src="https://img.icons8.com/external-flat-juicy-fish/60/000000/external-ab-testing-data-visualization-flat-flat-juicy-fish.png" width="40" />
+  <img src="https://img.icons8.com/color/48/statistics.png" width="40" />
+  <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/external-experiment-data-science-flaticons-lineal-color-flat-icons.png" width="40" />
+</p>
 
 ## 📊 Projects
 
