@@ -44,9 +44,6 @@ Predictive Modeling, Time Series Forecasting
 A/B Testing, Multivariate Testing, Causal Inference, Experimental Design
 Statistical Modeling, Observational Analysis
 
----
-
-Let me know if you’d like a **compact version**, or a version tailored for your **portfolio site or PDF resume**.
 
 ## 📊 Projects
 
