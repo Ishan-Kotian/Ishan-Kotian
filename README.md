@@ -14,25 +14,42 @@ I'm a data enthusiast with a strong foundation in analytics and a keen interest 
 
 
 
-## Tech Stack
+Here's your **Tech Stack section rewritten in clean, professional markdown** using normal text (no icons), suitable for a `README.md`, LinkedIn, or portfolio:
 
-Tech Stack
-Programming & Analytics
+---
+
+## 🚀 Tech Stack
+
+### 🧠 Programming & Analytics
+
 Python, R, SQL, Excel, Tableau, Power BI, SAP ABAP on HANA, Git
 Exploratory Data Analysis (EDA), Data Visualization
 
-Big Data & Cloud Platforms
+---
+
+### ☁️ Big Data & Cloud Platforms
+
 Databricks, Apache Spark (Structured Streaming, Spark MLlib), Hadoop, Kafka
 Snowflake, BigQuery, AWS SageMaker
 
-Machine Learning & Predictive Analytics
+---
+
+### 🤖 Machine Learning & Predictive Analytics
+
 Supervised & Unsupervised Learning, XGBoost, LightGBM, CatBoost
 PyTorch, TensorFlow, NLP, DBSCAN, Bayesian Optimization
 Predictive Modeling, Time Series Forecasting
 
-Experimentation & Causal Analysis
+---
+
+### 🧪 Experimentation & Causal Analysis
+
 A/B Testing, Multivariate Testing, Causal Inference, Experimental Design
 Statistical Modeling, Observational Analysis
+
+---
+
+Let me know if you’d like a **compact version**, or a version tailored for your **portfolio site or PDF resume**.
 
 ## 📊 Projects
 
