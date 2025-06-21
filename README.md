@@ -12,10 +12,6 @@
 
 I'm a data enthusiast with a strong foundation in analytics and a keen interest in machine learning and natural language processing. My academic and professional experiences have equipped me with the skills to tackle complex data challenges and deliver actionable solutions.
 
-
-
-Here's your **Tech Stack section rewritten in clean, professional markdown** using normal text (no icons), suitable for a `README.md`, LinkedIn, or portfolio:
-
 ---
 
 ## 🚀 Tech Stack
