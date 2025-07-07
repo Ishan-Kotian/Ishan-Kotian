@@ -10,7 +10,10 @@
 
 ## About Me
 
-I'm a data enthusiast with a strong foundation in analytics and a keen interest in machine learning and natural language processing. My academic and professional experiences have equipped me with the skills to tackle complex data challenges and deliver actionable solutions.
+I've always been fascinated by the stories numbers can tell. My journey into data science began during my undergraduate studies when I realized that analyzing data could lead to insights that change how we understand our world. As a Data Science Student Consultant at Carlson Analytics Lab, I contribute to developing an NLP-based grant-matching platform that streamlined processes for a top-tier medical research organization, saving 80+ hours weekly. Collaborated on live case projects using causal inference to analyze NCAA NIL policy effects, uncovering critical insights for athlete performance metrics. 
+
+Currently pursuing an MS in Business Analytics at the University of Minnesota, I bring a foundation in data science and engineering from the University of Mumbai. With expertise in causal analysis, Python, SQL, R and Tableau, my goal is to leverage analytics to empower organizations in making strategic decisions that drive measurable outcomes.
+
 
 
 
