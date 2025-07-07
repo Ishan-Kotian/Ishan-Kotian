@@ -43,9 +43,7 @@ Here are some of the projects I've worked on:
 - [Kaggle](https://www.kaggle.com/lykin22)
 
 Feel free to reach out for collaboration or just to say hi!
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kotia006@umn.edu) 
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kotian484@gmail.com) 
-
+📧 Email: kotia006@umn.edu, kotian484@gmail.com
 
 ## 📄 Resume
 
