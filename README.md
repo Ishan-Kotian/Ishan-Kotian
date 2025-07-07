@@ -40,7 +40,7 @@ Here are some of the projects I've worked on:
 ## 📫 Let's Connect
 
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ishan-kotian) 
-- [![Kaggle](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.kaggle.com/lykin22)
+- [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/lykin22)
   
 Feel free to reach out for collaboration or just to say hi!
 
