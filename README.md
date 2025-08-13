@@ -33,7 +33,7 @@ Feel free to reach out for collaboration or just to say hi!
 
 ## 📄 Resume
 
-You can view or download my resume [here](https://drive.google.com/drive/u/0/folders/1EmzNy3MOLdCKShqu0WTczc0WovFYKXS9).
+You can view or download my resume [here](https://drive.google.com/drive/folders/1trxNUL-vLnwueHZjpSV-0jrnXbckcp44).
 
 ---
 
