@@ -33,7 +33,7 @@ Feel free to reach out for collaboration or just to say hi!
 
 ## 📄 Resume
 
-You can view or download my resume [here](https://www.linkedin.com/in/ishan-kotian/overlay/1751754560820/single-media-viewer/?profileId=ACoAADJUhj8BnRuz9VUmkDIryyf4r1LudawbWNc).
+You can view or download my resume [here](https://www.linkedin.com/in/ishan-kotian/overlay/1755126097719/single-media-viewer/?profileId=ACoAADJUhj8BnRuz9VUmkDIryyf4r1LudawbWNc).
 
 ---
 
