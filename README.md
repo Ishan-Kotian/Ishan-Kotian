@@ -19,8 +19,6 @@ My recent work at Carlson Analytics Lab includes:
 
 Previously at Capgemini, I automated global sales data pipelines (Python/SQL), built dashboards in Tableau, and delivered $2M+ revenue opportunities through advanced segmentation and pricing analytics.
 
-Technical strengths: Python, SQL, R, Tableau, Machine Learning, NLP, A/B Testing, Cloud (GCP, Databricks), and Data Visualization.
-
 I'm passionate about leveraging analytics to drive measurable business outcomes in product and marketing analytics. Let’s connect if you’re interested in data-driven decision making or have opportunities where analytics can make a difference!
 
 
