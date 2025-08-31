@@ -10,7 +10,7 @@
 
 ## About Me
 
-I've always believed that behind every dataset lies a story waiting to be told and an opportunity to drive impact. As an MS in Business Analytics candidate at the Carlson School of Management ('25), I combine a strong foundation in data science and engineering with hands-on consulting experience to help organizations turn data into strategic advantage.
+I've always believed that behind every dataset lies a story waiting to be told and an opportunity to drive impact. As an MS in Business Analytics graduate at the Carlson School of Management ('25), I combine a strong foundation in data science and engineering with hands-on consulting experience to help organizations turn data into strategic advantage.
 
 My recent work at Carlson Analytics Lab includes:
 - Developing an NLP-powered grant-matching platform for a top medical research organization, reducing manual review time by 80+ hours per week.
