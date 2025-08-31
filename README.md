@@ -10,10 +10,18 @@
 
 ## About Me
 
-I've always been fascinated by the stories numbers can tell. My journey into data science began during my undergraduate studies when I realized that analyzing data could lead to insights that change how we understand our world. As a Data Science Student Consultant at Carlson Analytics Lab, I contribute to developing an NLP-based grant-matching platform that streamlined processes for a top-tier medical research organization, saving 80+ hours weekly. Collaborated on live case projects using causal inference to analyze NCAA NIL policy effects, uncovering critical insights for athlete performance metrics. 
+I've always believed that behind every dataset lies a story waiting to be told and an opportunity to drive impact. As an MS in Business Analytics candidate at the Carlson School of Management ('25), I combine a strong foundation in data science and engineering with hands-on consulting experience to help organizations turn data into strategic advantage.
 
-Currently pursuing an MS in Business Analytics at the University of Minnesota, I bring a foundation in data science and engineering from the University of Mumbai. With expertise in causal analysis, Python, SQL, R and Tableau, my goal is to leverage analytics to empower organizations in making strategic decisions that drive measurable outcomes.
+My recent work at Carlson Analytics Lab includes:
+- Developing an NLP-powered grant-matching platform for a top medical research organization, reducing manual review time by 80+ hours per week.
+- Leading NCAA athlete data analyses using causal inference and experimental design, providing actionable policy and performance insights.
+- Optimizing logistics through Python-based geospatial clustering, improving warehouse efficiency by 18%.
 
+Previously at Capgemini, I automated global sales data pipelines (Python/SQL), built dashboards in Tableau, and delivered $2M+ revenue opportunities through advanced segmentation and pricing analytics.
+
+Technical strengths: Python, SQL, R, Tableau, Machine Learning, NLP, A/B Testing, Cloud (GCP, Databricks), and Data Visualization.
+
+I'm passionate about leveraging analytics to drive measurable business outcomes in product and marketing analytics. Let’s connect if you’re interested in data-driven decision making or have opportunities where analytics can make a difference!
 
 
 
