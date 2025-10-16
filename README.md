@@ -17,6 +17,8 @@ My recent work at Carlson Analytics Lab includes:
 - Leading NCAA athlete data analyses using causal inference and experimental design, providing actionable policy and performance insights.
 - Optimizing logistics through Python-based geospatial clustering, improving warehouse efficiency by 18%.
 
+Previously at NowApps Technologies, I scaled ChannelKonnect, a SaaS distribution analytics platform supporting $300M+ in annual transactions for 40+ FMCG, Consumer Durables, and Apparel brands. I built SKU-level ETL pipelines and Power BI dashboards that improved forecast accuracy by 30% and drove a 22% increase in data-driven supply-chain decisions.
+
 Previously at Capgemini, I automated global sales data pipelines (Python/SQL), built dashboards in Tableau, and delivered $2M+ revenue opportunities through advanced segmentation and pricing analytics.
 
 I'm passionate about leveraging analytics to drive measurable business outcomes in product and marketing analytics. Let’s connect if you’re interested in data-driven decision making or have opportunities where analytics can make a difference!
